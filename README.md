@@ -42,8 +42,9 @@ For example:
   python caesar_cipher.py
 ```
 
+---
 
-📖 How to Use
+###📖 How to Use
 Choose Action:
 Enter encode to encrypt or decode to decrypt a message.
 
@@ -56,8 +57,10 @@ Choose how many steps you want to shift letters (positive integers only).
 Repeat or Exit:
 Type yes to process another message or no to exit.
 
+---
 
-✨ Example Interaction
+###✨ Example Interaction
+
 Type 'encode' to encrypt, type 'decode' to decrypt:
 encode
 Type your message:
@@ -80,17 +83,23 @@ Type 'yes' if you want to go again. Otherwise, type 'no':
 no
 Goodbye!
 
-🧠 How It’s Built
+---
+
+###🧠 How It’s Built
 This project leverages the following:
 
 Python Fundamentals: Loops, conditionals, and string manipulation.
 art Module: For a cool ASCII logo display.
 Modular Design: Interactive user input and logic encapsulated in a clean function.
 
-📜 License
+---
+
+###📜 License
 This project is open source under the MIT License—feel free to use, modify, and share it as you like.
 
-🙌 Acknowledgments
+---
+
+###🙌 Acknowledgments
 Special thanks to the idea of cryptography and Julius Caesar, who unknowingly inspired one of the oldest encryption methods still studied today!
 
 
