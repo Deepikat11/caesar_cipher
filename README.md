@@ -4,7 +4,7 @@ Welcome to the **Caesar Cipher CLI Tool**, your gateway to ancient cryptography 
 
 ---
 
-## 🎯 Features
+🎯 Features
 - 🔒 **Encrypt Messages**: Secure your text by shifting letters forward in the alphabet.  
 - 🔓 **Decrypt Messages**: Reveal the hidden text by reversing the shift.  
 - 🧩 **Handles Non-Alphabet Characters**: Retains spaces, numbers, and special characters as-is.  
@@ -13,7 +13,7 @@ Welcome to the **Caesar Cipher CLI Tool**, your gateway to ancient cryptography 
 
 ---
 
-## 🚀 How It Works
+🚀 How It Works
 The Caesar Cipher shifts each letter in your message by a specified amount across the alphabet. Non-alphabet characters (like spaces, punctuation, and numbers) remain unchanged.
 
 For example:
@@ -32,19 +32,15 @@ For example:
 1. Clone this repository:  
    ```bash
    git clone https://github.com/Deepikat11/caesar_cipher.git
-   cd caesar-cipher-cli
-2.Install the art module:
-  ```bash
-  python caesar_cipher.py
-```
-3. Run the Program
+   cd caesar_cipher
+2. Run the Program
   ```bash
   python caesar_cipher.py
 ```
 
 ---
 
-###📖 How to Use
+📖 How to Use
 Choose Action:
 Enter encode to encrypt or decode to decrypt a message.
 
@@ -59,7 +55,7 @@ Type yes to process another message or no to exit.
 
 ---
 
-###✨ Example Interaction
+✨ Example Interaction
 
 Type 'encode' to encrypt, type 'decode' to decrypt:
 encode
@@ -83,23 +79,23 @@ Type 'yes' if you want to go again. Otherwise, type 'no':
 no
 Goodbye!
 
----
 
-###🧠 How It’s Built
+
+🧠 How It’s Built
 This project leverages the following:
 
 Python Fundamentals: Loops, conditionals, and string manipulation.
 art Module: For a cool ASCII logo display.
 Modular Design: Interactive user input and logic encapsulated in a clean function.
 
----
 
-###📜 License
+
+📜 License
 This project is open source under the MIT License—feel free to use, modify, and share it as you like.
 
 ---
 
-###🙌 Acknowledgments
+🙌 Acknowledgments
 Special thanks to the idea of cryptography and Julius Caesar, who unknowingly inspired one of the oldest encryption methods still studied today!
 
 
