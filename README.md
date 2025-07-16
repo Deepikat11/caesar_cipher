@@ -31,7 +31,7 @@ For example:
 ### 2️⃣ Installation
 1. Clone this repository:  
    ```bash
-   git clone https://github.com/your-repo-name/caesar-cipher-cli.git
+   git clone https://github.com/Deepikat11/caesar_cipher.git
    cd caesar-cipher-cli
 2.Install the art module:
   ```bash
